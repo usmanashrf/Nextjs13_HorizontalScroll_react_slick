@@ -60,7 +60,7 @@
 React Slick Slider is implemented but if you want to add Mouse Scroll effect on slider
 then follow below instructions
 
-- We'll use to Reacr Hooks useEffect, useRef
+- We'll use to React Hooks useEffect, useRef
 
 ```
     import { useEffect, useRef } from "react";
